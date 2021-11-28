@@ -1,0 +1,1 @@
+This folder contains processed output images with watermark
